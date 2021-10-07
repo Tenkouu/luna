@@ -21,6 +21,8 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
 
+        <img src="/images/profile.jpg" alt="Your Name" />
+        
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentation &rarr;</h3>
