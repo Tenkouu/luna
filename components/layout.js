@@ -44,7 +44,7 @@ return (
             <a>
                 <Image
                 priority
-                src="/images/profile.jpg"
+                src="/images/profile1.jpg"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}
